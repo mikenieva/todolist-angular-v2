@@ -1,0 +1,11 @@
+.brand {
+    width: 80px;
+}
+
+.navbar-brand{
+    height: auto;
+}
+
+.navbar-text {
+    margin-top: 25px;
+}
